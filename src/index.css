@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;.card{@apply rounded-2xl border border-flexEdge bg-flexPanel shadow-lux}.kpi{@apply card p-4}::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-thumb{background:#1e1e1e;border-radius:8px}.sticky-capture{position:static!important}
